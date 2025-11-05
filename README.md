@@ -1,70 +1,66 @@
-<!-- Hi there 👋 I'm Fouad Mohamed -->
 <h1 align="center">Hi 👋, I'm Fouad Mohamed</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | MERN Stack | React | Next.js | Node.js</h3>
+<h3 align="center">💻 Full-Stack Web Developer | React | Next.js | Node.js | MongoDB</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+Next.js;Always+learning+new+things!;Building+modern+scalable+apps" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+Next.js;Always+learning+new+things!;Building+modern+scalable+apps" alt="Typing SVG" /> </p>
 
 ---
 
-### 💫 About Me
-- 🔭 I’m currently working on **real-time chat apps** and interactive dashboards.  
-- 🌱 Learning **DevOps**, **AWS**, and **performance optimization**.  
-- 💬 Ask me about **React**, **Node.js**, **Next.js**, or **MongoDB**.  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-link)  
-- ⚡ Fun fact: I debug faster with coffee ☕ and lo-fi beats 🎧  
+### 🌟 About Me
+- 🧠 Full-stack developer focused on **modern, responsive, and performant web apps**.  
+- 🔭 Currently building **real-time chat systems**, **social platforms**, and **eCommerce solutions**.  
+- 💬 Skilled in **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **Tailwind CSS**.  
+- ⚙️ Experienced with **TypeScript**, **Socket.io**, **REST APIs**, and **state management (Redux, Zustand)**.  
+- 🌍 Passionate about clean code, UI/UX, accessibility, and scalability.  
+- ✨ Always exploring new technologies and improving developer workflow.  
+
+📫 **Reach me at:**  
+[💼 LinkedIn](https://www.linkedin.com/in/fouadmohamed2000/) | 📧 **fm0850020@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fouadmo1223&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouadmo1223&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🚀 Featured Projects
+
+#### 💬 [Chat App](https://chat-frontend-lovat-eight.vercel.app/)
+Real-time chat app built with **MERN + Socket.io**, featuring live messaging and sleek UI.
+
+#### 🧠 [Thoughts – Social Platform](https://github.com/fouadmo1223/thoughts-Frontend)
+Modern **Next.js** platform for sharing ideas, posts, likes & comments.
+
+#### 🛒 [inDeal](https://github.com/fouadmo1223/inDeal)
+Scalable **eCommerce web app** with product management, secure checkout, and admin dashboard.
+
+#### 🛰️ [TechSphere](https://github.com/fouadmo1223/TechSphere)
+**Next.js + Tailwind** blog platform optimized for performance & SEO.
+
+---
+
+### 🏆 GitHub Activity
+
+
+
+
+#### 📊 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouadmo1223&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
-
-### 🌐 Connect with Me
+#### 💎 GitHub Badges
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/fouadmo1223" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/fouadmo1223?label=Followers&style=social" /> 
+  <img src="https://img.shields.io/github/stars/fouadmo1223?label=Stars&style=social" /> 
+  <img src="https://img.shields.io/github/repo-size/fouadmo1223/githuub-actions?label=Repo+Size&style=for-the-badge" /> 
+  <img src="https://img.shields.io/github/issues/fouadmo1223/githuub-actions?label=Open+Issues&style=for-the-badge" /> 
 </p>
 
 ---
 
-### 🧩 Featured Projects
-- 💬 [Chat App (MERN + Socket.io)](https://chat-frontend-lovat-eight.vercel.app/)  
-- 📊 [Dashboard Platform (Next.js + Tailwind)](https://github.com/fouadmo1223/dashboard-app)  
-- 📚 [BookStore API (Express + MongoDB)](https://github.com/fouadmo1223/bookstore-api)  
-
----
-
-### 🐍 Fun Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fouadmo1223/fouadmo1223/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-⭐ **Thanks for visiting my profile!**  
-📈 Let’s connect and build something amazing together 🚀  
+### ⚡ Fun Fact
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> Let's make the web faster, smarter, and more fun 🌍✨
