@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 👋, I'm Fouad Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Fouad Mohamed</h1>
 <h3 align="center">💻 Full-Stack Web Developer | React | Next.js | Node.js | MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+beautiful+and+scalable+web+apps;Creating+seamless+user+experiences;Passionate+about+modern+JavaScript+development;Always+learning+and+improving+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+beautiful+and+scalable+web+apps;Creating+seamless+user+experiences;Always+learning+and+improving+🚀" alt="Typing animation" />
 </p>
 
 ---
@@ -36,23 +36,31 @@ Real-time chat app built with **MERN + Socket.io**, featuring live messaging and
 Modern **Next.js** platform for sharing ideas, posts, likes & comments.
 
 #### 🛒 [inDeal](https://github.com/fouadmo1223/inDeal)
-Scalable **eCommerce app** with product management, secure checkout, and admin dashboard.
+Scalable **eCommerce web app** with product management, secure checkout, and admin dashboard.
 
 #### 🛰️ [TechSphere](https://github.com/fouadmo1223/TechSphere)
-**Next.js + Tailwind** blog platform for tech articles, optimized for performance & SEO.
+**Next.js + Tailwind** blog platform optimized for performance & SEO.
 
 ---
 
-### 🏆 GitHub Stats & Activity
+### 🏆 GitHub Activity
 
+#### 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fouadmo1223&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+#### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fouadmo1223/fouadmo1223/main/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+#### 📊 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouadmo1223&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+#### 💎 GitHub Badges
 <p align="center">
   <img src="https://img.shields.io/github/followers/fouadmo1223?label=Followers&style=social" /> 
   <img src="https://img.shields.io/github/stars/fouadmo1223?label=Stars&style=social" /> 
@@ -62,13 +70,6 @@ Scalable **eCommerce app** with product management, secure checkout, and admin d
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fouadmo1223/fouadmo1223/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Animation" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> Let’s make the web faster, smarter, and more fun 🌍✨
+> Let's make the web faster, smarter, and more fun 🌍✨
